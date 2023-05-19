@@ -1,0 +1,284 @@
+1
+                                                                                                                                                                 Data sheet
+
+
+
+
+
+
+
+
+
+
+                                                                      HPE          PRIMERA                     600
+                                                                      STORAGE
+
+                                                                      Primera       Storage
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                      OVERVIEW
+WHAT'S   NEW                                             Are you bringing new mission-critical applications to market
+· Self-optimize system operations in real-time while supporting existing ones in order to accelerate speed of
+    by intelligently and dynamically optimizing business, agility and innovation?
+    resource utilization to ensure fast and
+    predictable performance.                          Is your traditional  high-end storage holding you back because
+· Deliver transparent business continuity now you are tied down administering, tuning, and supporting
+    with the flexibility to replicate to a third site infrastructure?
+    to recover from a metropolitan area disaster
+    with enhanced HPE Peer Persistence.     HPE Primera redefines what's possible in mission-critical storage
+· Near-instant asynchronous replication over by combining autonomous operations with extreme resiliency
+    extended distances with a one minute      and performance. Built with the agility of cloud and powered by
+    recovery point objective.                           HPE InfoSight, HPE Primera delivers instant access to data with
+· Accelerate applications and improve storage storage that sets up in minutes, upgrades transparently, and is
+    density with all-NVMe configurations. For delivered as a service. Plus, it’s  backed by a 100% Availability
+    SAP HANA, HPE Primera with all-NVMe now Guarantee [1].
+    supports 2X the number of SAP HANA
+    nodes at half the price [2].
+
+2
+Data sheet                                                                                                                                                                                          Page 2
+
+
+
+
+                                                                                       FEATURES
+
+                                                                                       Achieve   an On-demand   Storage  Experience
+                                                                                       Deploy, manage, and scale your storage in 93% less time [3] with a platform that
+                                                                                       sets up in minutes, tunes itself, and upgrades transparently without hassle.
+
+                                                                                       Rely on automated, self-optimizing system operations that take action on your
+                                                                                       behalf in real-time to help ensure fast and predictable performance.
+                                                                                       Deliver a dynamic, fluid set of resources that you can automate and dynamically
+                                                                                       allocate in real-time, using a common API with integration with HPE Synergy and
+                                                                                       HPE Composable Rack.
+
+
+                                                                                       Prevent   Disruptions    with  App-aware   Resiliency
+                                                                                       Raise the bar on mission-critical reliability. HPE Primera comes standard with a
+                                                                                       100% data availability guarantee [1], without requiring special contracts or onerous
+                                                                                       terms.
+
+                                                                                       See beyond the walls of storage. More than 90% of issues arise from above the
+                                                                                       storage layer [4] – in the network, server and virtualization layer. HPE Primera sees
+                                                                                       beyond storage with HPE InfoSight to predict and prevent any disruptions in the
+                                                                                       networking, application and server layers.
+                                                                                       Meet any RPO/RTO strategy with transparent business continuity and extend app-
+                                                                                       aware data protection to the cloud.
+
+
+                                                                                       Consolidate   Without    the Risk
+                                                                                       Ensure your traditional and modern mission critical apps are always fast, even at
+                                                                                       scale thru an all-active architecture built for all-NVMe.
+
+                                                                                       Get visibility for optimizing application workload placement while accounting for
+                                                                                       application performance characteristics and interactions with other shared
+                                                                                       applications on an HPE Primera system.
+                                                                                       Eliminate the guesswork with real-time analytics to maintain predictable
+                                                                                       performance.  AI models trained in the cloud are embedded in the array for real-
+                                                                                       time analytics to ensure consistent performance for application workloads.
+
+
+                                                                                       Enterprise    Storage  Ownership   Transformed
+                                                                                       Forget costly and disruptive platform rip-and-replace cycles with data-in-place
+                                                                                       upgrades.
+
+                                                                                       Experience a simple, flat support pricing model to ensure you receive the same
+                                                                                       great support year after year at the same price as Day 1.
+                                                                                       Access all OS features, including a full suite of replication capabilities and HPE
+                                                                                       InfoSight, at no additional cost.
+                                                                                       Enjoy guaranteed availability and data reduction for the ultimate peace of mind.
+                                                                                       Try HPE Primera for 30 days at no risk. If you aren't completely satisfied with the
+                                                                                       benefits and capabilities of HPE Primera as outlined in our product specs, we will
+                                                                                       work with you to make things right. [5]
+
+3
+Data   sheet                                                                                                                                                                                                                                                  Page   3
+
+
+
+
+Technical               specifications                                                        HPE       Primera              600        Storage
+
+
+Capacity                                                                                              HPE Primera A630: 250 TiB (SSD only)/ 700 TiB Effective# (SSD only);
+                                                                                                            HPE Primera A650: 800 TiB (SSD only)/ 2200 TiB Effective# (SSD only);
+                                                                                                            HPE Primera A670: 1600 TiB (SSD only)/ 4900 TiB Effective# (SSD only);
+                                                                                                            HPE Primera C630: 250TiB (SSD only) / 700 TiB Effective# (SSD only/ 750TiB (HDD and SSD)* [4];
+                                                                                                            HPE Primera C650*: 800TiB (SSD only) /2200 TiB Effective# (SSD only)/ 2000TiB (HDD and SSD)* [4];
+                                                                                                            HPE Primera C670*: 1600TiB (SSD only) / 4900 TiB Effective# (SSD only)/ 4000TiB (HDD and SSD)* [4]
+
+                                                                                                            #Effective capacity assumes 4:1 estimated data compaction rate (including: thin provisioning, deduplication,
+                                                                                                            compression, and copy technologies) in a RAID 6 (6+2, 8+2, 10+2) configuration. Note TB vs TiB. Actual
+                                                                                                            ratios will vary based on workload. See HPE StoreMore guarantee for more information.
+
+
+Drive description                                                                                 NVMe SFF FIPS Encrypted SSD;
+                                                                                                            NVMe SFF SSD;
+                                                                                                            SAS SFF FIPS Encrypted SSD;
+                                                                                                            SAS SFF SSD;
+                                                                                                            SAS SFF FIPS Encrypted 10K HDD* [4];
+                                                                                                            SAS SFF 10K HDD* [4];
+                                                                                                            SAS LFF FIPS Encrypted 7.2K HDD* [4];
+                                                                                                            SAS LFF 7.2K HDD* [4]
+
+
+Enclosures                                                                                          HPE Primera 2U24 SFF SAS Drive Enclosure;
+                                                                                                            HPE Primera 2U12 LFF SAS Drive Enclosure
+
+
+Maximum drives  per enclosure                                                          HPE Primera 600 2-way Storage Base: 24;
+                                                                                                            HPE Primera 600 4-way Storage Base: 48;
+                                                                                                            HPE Primera 2U24 SFF SAS Drive Enclosure: 24;
+                                                                                                            HPE Primera 2U12 LFF SAS Drive Enclosure: 12* [4]
+
+
+Host interface                                                                                      32 Gb/s Fibre Channel;
+                                                                                                            16 Gb/s Fibre Channel
+
+
+Cache                                                                                                 4TiB, Maximum, depending on model
+
+
+Storage controller                                                                               HPE Primera A630 Controller;
+                                                                                                            HPE Primera C630 Controller* [4];
+                                                                                                            HPE Primera A650 Controller;
+                                                                                                            HPE Primera C650 Controller* [4];
+                                                                                                            HPE Primera A670 Controller;
+                                                                                                            HPE Primera C670 Controller* [4]
+
+
+Availability   features                                                                           Redundant power and cooling modules with battery and fans;
+                                                                                                            A minimum of dual redundant controllers, max of four controllers for added redundancy;
+                                                                                                            RAID 6 for data protection
+
+
+Compatible operating  systems                                                          Microsoft Windows Server 2012;
+                                                                                                            Microsoft Windows Server 2012 R2;
+                                                                                                            Microsoft Windows Server 2016;
+                                                                                                            Microsoft Windows Server 2019;
+                                                                                                            Microsoft Windows Hyper-V;
+                                                                                                            HP-UX;
+                                                                                                            SUSE Linux Enterprise Server (SLES);
+                                                                                                            Red Hat Enterprise Linux (RHEL);
+                                                                                                            VMware ESX and ESXi;
+                                                                                                            Oracle Solaris;
+                                                                                                            Oracle UEK;
+                                                                                                            Oracle Linux;
+                                                                                                            Citrix XenServer;
+                                                                                                            IBM AIX;
+                                                                                                            HPE OpenVMS;
+                                                                                                            Apple OS X;
+                                                                                                            HPE OpenVMS is a registered release only
+
+4
+Data   sheet                                                                                                                                                                                                                                                  Page   4
+
+
+
+
+
+Minimum dimensions  ( H x W x D)                                                    HPE Primera 630: 483 x 839 x 87.5 cm (W/D/H);
+                                                                                                            HPE Primera 650: 483 x 839 x 174 cm (W/D/H);
+                                                                                                            HPE Primera 670: 483 x 839 x 174 cm (W/D/H)
+
+
+Weight                                                                                                 HPE Primera 630: 33.6 kg;
+                                                                                                            HPE Primera 650 2N: 47.3 kg;
+                                                                                                            HPE Primera 650 4N: 67.3 kg;
+                                                                                                            HPE Primera 670 2N: 47.3 kg;
+                                                                                                            HPE Primera 670 4N: 67.3 kg
+
+                                                                                                            (weight includes chassis, controllers, and PCBM, no drives or adapters)
+
+
+Warranty                                                                                             3/0/0  (3-years parts-only);
+                                                                                                            5/0/0  (for SSDs)
+
+5
+                                                                                  HPE     POINTNEXT
+For additional  technical
+
+information,  available models  and                          Access expertise  at every  step of your  IT journey  with  HPE Pointnext Services. Advisory Services
+                                                                                  focuses on your  business outcomes  and goals, to  design your  transformation   and build  a
+options, please reference  the                                  roadmap  tuned  to your  unique  challenges.  Our Professional and Operational Services help
+
+QuickSpecs                                                               speed up time-to-production    and  keep your  IT stable and  reliable.
+
+                                                                                  Operational      Services    from   HPE   Pointnext     Services
+                                                                                  · HPE     Datacenter   Care  helps modernize  and simplify  IT operations.  Partner  with an
+                                                                                        assigned account  team, access technical expertise,  an enhanced  call experience gives  you
+                                                                                        priority  access, choose hardware and  software support,  implement  proactive  monitoring   to
+                                                                                        help stay ahead  of issues, and access HPE IT best practices  and IP.
+                                                                                  · HPE     Proactive   Care offers  an enhanced  call experience and  helps reduce  problems  with
+                                                                                        personalized proactive  reports  and  advice. This also includes  collaborative  software
+                                                                                        support  for Independent  Software  Vendors  (ISVs), (Red Hat, VMWare, Microsoft,  etc.).
+                                                                                        Read more
+                                                                                  · HPE     Foundation   Care  helps when  there is a problem  and  has a choice of response  levels.
+                                                                                        Collaborative software  support  is included  and provides  troubleshooting   help  for ISVs
+                                                                                        running  on your server. Read more.
+
+                                                                                  Other   related     services
+                                                                                  Defective   Media  Retention    is optional  and applies only  to Disk  or eligible SSD/Flash Drives
+                                                                                  replaced by  HPE due to  malfunction.
+                                                                                  HPE Service  Credits   offers a menu  of technical  services, access additional  resources, and
+                                                                                  specialist skills.
+                                                                                  HPE Education   Services   delivers a comprehensive  range  of services to  support  your people
+                                                                                  as they expand  their  skills required  for a digital  transformation.
+                                                                                  Consult your  HPE Sales Representative  or Authorized   Channel Partner  of choice for  any
+                                                                                  additional  questions  and support  options.
+
+                                                                                  HPE     GREENLAKE
+
+                                                                                  HPE Greenlake is HPE’s market-leading IT as-a-Service offering  that  brings the  cloud
+                                                                                  experience  to apps and  data everywhere  – data centers,  multi-clouds,  and edges –  with one
+                                                                                  unified  operating  model. HPE GreenLake  delivers public  cloud  services and infrastructure   for
+      Make the right purchase decision.                      workloads  on premises, fully  managed in  a pay per use model.
+       Contact our presales specialists.
+                                                                                  If you are looking  for  more services, like IT  financing   solutions,   please explore them here.
+
+                Find a partner
+                                                                                     [1] 100% Availability Guarantee Solution Brief    hpe.com/us/en/pdfViewer.html?docId=a00074521
+
+                                                                                     [2] Based on HPE internal testing, comparing HPE Primera all-flash with HPE Primera all-NVMe.
+
+                                                                                     [3] Up to 93% less time - Based on HPE internal testing of a leading Tier-1 storage system versus HPE Primera
+
+                                                                                     [4] Based on recent survey of IT leaders by IDC
+
+                                                                                     [5] https://h20195.www2.hpe.com/v2/Getdocument.aspx?docname=a50000089enw&skiphtml=1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                    © Copyright 2021 Hewlett Packard Enterprise Development LP. The information contained herein is subject to change without
+                                                                                    notice. The only warranties for Hewlett Packard Enterprise products and services are set forth in the express warranty statements
+                                                                                    accompanying such products and services. Nothing herein should be construed as constituting an additional warranty. Hewlett
+                                                                                    Packard Enterprise shall not be liable for technical or editorial errors or omissions contained herein.
+                                                                                    Parts and Materials: HPE will provide HPE-supported replacement parts and materials required to maintain the covered hardware.
+                                                                                    Parts and components that have reached their maximum supported lifetime and/or the maximum usage limitations as set forth in the
+                                                                                    manufacturer's operating manual, product quick-specs, or the technical product data sheet will not be provided, repaired, or replaced
+                                                                                    as part of these services.
+                                                                                    Image may differ from the actual product
+                                                                                    PSN1011657880USEN, January, 2021.
+
